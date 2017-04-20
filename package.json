@@ -1,0 +1,19 @@
+{
+  "name": "APIswJokes",
+  "version": "1.0.0",
+  "description": "A live code API using Node.js and MongoDb with Mongoose.",
+  "main": "server.js",
+  // Original repo from Rob
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robmyers82/uitLiveCodeApi"
+  },
+  "author": "Spencer",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2"
+  }
+}
